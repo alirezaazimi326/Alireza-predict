@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 
+env/
+env 
+
 # Captchas
-captchas/
 
 # OS files
 .DS_Store
@@ -11,3 +13,6 @@ captchas/
 # Virtual environments
 .env/
 venv/
+
+
+
