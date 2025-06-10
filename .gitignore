@@ -1,0 +1,13 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Captchas
+captchas/
+
+# OS files
+.DS_Store
+
+# Virtual environments
+.env/
+venv/
